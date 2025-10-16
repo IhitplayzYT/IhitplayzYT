@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ihit Acharya
 
-> 🎓 I'm pursuing a degree in Computer Science and Financial📊 Technology, passionate about Systems💻 programming and low-level⚙️ working intricacies of Computer Architectures🏗️ mainly in the field of Linux🐧 .**Nice** to Meet You!❤️
+> 🎓 I'm pursuing a degree in **Computer Science and Financial📊 Technology**, passionate about **Systems💻 programming** and **Low-Level⚙️** working intricacies of **Computer Architectures🏗️** mainly in the field of **Linux🐧** .**Nice** to **Meet You!❤️**
 > 💻 Whole 😻 devoted to C and pursuing bare-metal internals.
 
 ---
 
-## 🧠 My Artillery
+# 🎆 My Artillery 🖋️
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 ---
 
+# Projects I've Worked on 🤖 
+
+
+---
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)

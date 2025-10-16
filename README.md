@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ihit Acharya
 
-🎓 I'm a Computer Science and Financial Technology student ,passionate about Systems💻 programming and low-level⚙️ working intricacies and Architecture🏗️ mainly in the field of Linux🐧 .**Nice** to Meet You!❤️
-💻 Whole 😻 devoted to C and pursuing bare-metal internals.
+> 🎓 I'm pursuing a degree in Computer Science and Financial📊 Technology, passionate about Systems💻 programming and low-level⚙️ working intricacies of Computer Architectures🏗️ mainly in the field of Linux🐧 .**Nice** to Meet You!❤️
+> 💻 Whole 😻 devoted to C and pursuing bare-metal internals.
 
 ---
 

@@ -1,11 +1,11 @@
-## Hi there 👋
+# Yahello 🌴🏖️
 
 <!--
 **IhitplayzYT/IhitplayzYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+# 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,17 +17,20 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ihit Acharya
 
-🎓 I'm a Computer Science student passionate about systems programming and AI.  
-💻 I love C, Python, and exploring low-level internals.
+🎓 I'm a Computer Science and Financial Technology student ,passionate about Systems💻 programming and low-level⚙️ working intricacies and Architecture🏗️ mainly in the field of Linux🐧 .**Nice** to Meet You!❤️
+💻 Whole 😻 devoted to C and pursuing bare-metal internals.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 My Artillery
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-0078D6?style=for-the-badge&logo=nasm&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-000000?style=for-the-badge&logoColor=white)
 
 ---
 

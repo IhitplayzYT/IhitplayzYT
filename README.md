@@ -40,5 +40,4 @@ Here are some ideas to get you started:
 ---
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ihit-acharya-10a907285)
 

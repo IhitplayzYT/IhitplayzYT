@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=36&color=1FF7C6&background=2727278D&center=true&vCenter=true&width=435&height=200&lines=Yahello;Welcome)](https://git.io/typing-svg)
 
-![Ihit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihitacharya&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihitacharya&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihitacharya&theme=tokyonight)](https://git.io/streak-stats)
+![Ihit's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplazYT&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IhitplayzYT&theme=tokyonight)](https://git.io/streak-stats)
 
-![Profile views](https://komarev.com/ghpvc/?username=ihitacharya&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=IhitplayzYT&color=blue)
 
 # 👋 Hi, I'm Ihit Acharya
 

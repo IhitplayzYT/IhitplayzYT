@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ihit Acharya
 
-> 🎓 I'm pursuing a degree in **Computer Science and Financial📊 Technology**, passionate about **Systems💻 programming** and **Low-Level⚙️** working intricacies of **Computer Architectures🏗️** mainly in the field of **Linux🐧** .**Nice** to **Meet You!❤️**
-> 💻 Whole 😻 devoted to C and pursuing bare-metal internals.
+> 🎓 I'm pursuing a degree in **Computer Science and Financial Technology**, passionate about **Systems programming 💻** and **Low-Level ⚙️** working intricacies of **Computer Architectures🏗️** mainly in the field of **Linux** .**Nice** to **Meet You!❤️**
 
 ---
 

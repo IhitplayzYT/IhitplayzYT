@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 
 ![Ihit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IhitplayzYT&theme=tokyonight)](https://git.io/streak-stats)
+
+
 ---
 
 # Projects I've Worked on 🤖 

@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IhitplayzYT&theme=tokyonight)](https://git.io/streak-stats)
 
+![Ihit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=tokyonight)
+
 ---
 
 # Projects I've Worked on 🤖 

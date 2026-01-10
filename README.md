@@ -5,20 +5,12 @@
 
 Here are some ideas to get you started:
 
-# 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=36&color=1FF7C6&background=2727278D&center=true&vCenter=true&width=435&height=200&lines=Yahello;Welcome)](https://git.io/typing-svg)
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=IhitplayzYT&color=blue)
 
 # 👋 Hi, I'm Ihit Acharya
 
@@ -44,13 +36,13 @@ Here are some ideas to get you started:
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=dark" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark)
+<img src="https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=IhitplayzYT&theme=dark)
+<img src="https://github-profile-trophy.vercel.app/?username=IhitplayzYT&theme=dark" />
 
 ---
 
@@ -58,6 +50,7 @@ Here are some ideas to get you started:
 
 
 ---
-## 🌐 Socials
+## 🌐 - How to reach me: 
+
 
 

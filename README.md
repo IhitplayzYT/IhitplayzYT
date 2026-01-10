@@ -44,19 +44,13 @@ Here are some ideas to get you started:
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=dark)
 
-![Ihit's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=tokyonight) <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IhitplayzYT&theme=tokyonight)](https://git.io/streak-stats)
-
-![Ihit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IhitplayzYT&theme=tokyonight)](https://git.io/streak-stats)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=IhitplayzYT&theme=dark)
 
 ---
 

@@ -47,10 +47,26 @@ Here are some ideas to get you started:
 ---
 
 # Projects I've Worked on 🤖 
-
-
+> Rust Compiler
+> BM25 Indexer
+> Goscrapper
+> Preprocessor
+> Operating System
+> Godownloader
+> DNS_Resolver
+> Network Library
+> Options Pricing
+> BuildSystem
+> Hotcode Reloading
+> Http Server
+> Toralizer
+> Genric Data Structures in C
+> Stdoslib
+> 
 ---
 ## 🌐 - How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/ihit-acharya/)
+[Email](mailto:ihitexe@egmail.com)
 
 
 

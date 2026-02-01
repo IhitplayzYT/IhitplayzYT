@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 > Toralizer
 > Genric Data Structures in C
 > Stdoslib
-> 
 ---
 ## 🌐 - How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ihit-acharya/)

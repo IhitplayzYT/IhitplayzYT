@@ -56,13 +56,8 @@ Here are some ideas to get you started:
 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=IhitplayzYT&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhitplayzYT&layout=compact&theme=dark" />
 
 <img src="https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=IhitplayzYT&theme=dark" />
 
 ---
 

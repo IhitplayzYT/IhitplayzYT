@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 - Options Pricing
 - BuildSystem
 - Hotcode Reloading
+- MBR Bootloader
+- Interpretor
 - Http Server
 - Toralizer
 - Genric Data Structures in C

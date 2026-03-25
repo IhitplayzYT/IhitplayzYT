@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 # Projects I've Worked on 🤖 
 - Rust Compiler
 - BM25 Indexer
+- Linux Drivers
+- Virtual Machine
 - Goscrapper
 - Preprocessor
 - Operating System
@@ -74,11 +76,13 @@ Here are some ideas to get you started:
 - BuildSystem
 - Hotcode Reloading
 - MBR Bootloader
-- Interpretor
+- Rust Interpretor
 - Http Server
 - Toralizer
 - Genric Data Structures in C
 - Stdoslib
+- Binary Embedder
+- File MetaStrip
 ---
 ## 🌐 - How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ihit-acharya/)

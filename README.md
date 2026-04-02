@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 - Stdoslib
 - Binary Embedder
 - File MetaStrip
+- Embedder
 ---
 ## 🌐 - How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ihit-acharya/)

@@ -60,30 +60,31 @@ Here are some ideas to get you started:
 <img src="https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark" />
 
 ---
-
 # Projects I've Worked on 🤖 
 - Rust Compiler
+- Rust Interpretor
+- Torrent client (Torquent)
+- Tor client (Toralizer)
+- Custom Split Keyboard
+- Agentic graph Knowledge net (RelNeCraph)
 - BM25 Indexer
-- Linux Drivers
-- Virtual Machine
+- Linux Drivers (Vlux-_KDD)
+- Virtual Machine (ZecroVizR)
 - Goscrapper
-- Preprocessor
-- Operating System
 - Godownloader
-- DNS_Resolver
-- Network Library
-- Options Pricing
+- Preprocessor (PreRustC)
+- Operating System 
+- DNS_Resolver 
+- Network Library (Ethernet and IP ping)
+- Options Pricing 
 - BuildSystem
 - Hotcode Reloading
 - MBR Bootloader
-- Rust Interpretor
 - Http Server
-- Toralizer
 - Genric Data Structures in C
 - Stdoslib
 - Binary Embedder
 - File MetaStrip
-- Embedder
 ---
 ## 🌐 - How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ihit-acharya/)

@@ -1,24 +1,14 @@
-# Yahello 🌴🏖️
-
-<!--
-**IhitplayzYT/IhitplayzYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+# Yahello 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=36&color=1FF7C6&background=2727278D&center=true&vCenter=true&width=435&height=200&lines=Yahello;Welcome)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Ihit Acharya
+# Hi, I'm Ihit Acharya
 
-> 🎓 I'm pursuing a degree in **Computer Science and Financial Technology**, passionate about **Systems programming 💻** and **Low-Level ⚙️** working intricacies of **Computer Architectures🏗️** mainly in the field of **Linux** .**Nice** to **Meet You!❤️**
+> I'm pursuing a degree in **Computer Science and Financial Technology**, passionate about **Systems programming** and **Low-Level** working intricacies of **Computer Architectures** mainly in the field of **Linux** .**Nice** to **Meet You!**
 
 ---
 
-# 🎆 My Artillery 🖋️
+# Technologies I have worked with:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -73,7 +63,7 @@ Here are some ideas to get you started:
 <img src="https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark" />
 
 ---
-# Projects I've Worked on 🤖 
+# Projects I've Worked on :
 - [C]: Hot Code Reloading -> A runtime dynamic loading of .dll/.so for runtime behavioral changing
 - [C]: Http Server -> A small Http server similar to localhost without remote url resolution
 - [C]: Toraliser -> A SOCKS4 implementation for executing commands using tor proxy

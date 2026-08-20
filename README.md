@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ROS 2 Humble](https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)

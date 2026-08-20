@@ -74,30 +74,11 @@ Here are some ideas to get you started:
 
 ---
 # Projects I've Worked on 🤖 
-- Rust Compiler
-- Rust Interpretor
-- Torrent client (Torquent)
-- Tor client (Toralizer)
-- Custom Split Keyboard
-- Agentic graph Knowledge net (RelNeCraph)
-- BM25 Indexer
-- Linux Drivers (Vlux-_KDD)
-- Virtual Machine (ZecroVizR)
-- Goscrapper
-- Godownloader
-- Preprocessor (PreRustC)
-- Operating System 
-- DNS_Resolver 
-- Network Library (Ethernet and IP ping)
-- Options Pricing 
-- BuildSystem
-- Hotcode Reloading
-- MBR Bootloader
-- Http Server
-- Genric Data Structures in C
-- Stdoslib
-- Binary Embedder
-- File MetaStrip
+- [C]: Hot Code Reloading -> A runtime dynamic loading of .dll/.so for runtime behavioral changing
+- [C]: Http Server -> A small Http server similar to localhost without remote url resolution
+- [C]: Toraliser -> A SOCKS4 implementation for executing commands using tor proxy
+- [C]: Generics Data Structure -> A naive void ptr structure contstructor and helper for comman Data Structures
+- TO BE UPDATED
 ---
 ## 🌐 - How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ihit-acharya/)

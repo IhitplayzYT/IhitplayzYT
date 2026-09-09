@@ -71,7 +71,7 @@
 - [C,C++,Python,ROS2,Gazebo,XML]: MRM Repo -> Collection of projects/tasks i have done at MRM AI TaskPhase
 - [C,Asm]: Embedder -> A small program to take input file/data and convert it to C byte array or Assembly byte blob
 - [KiCAD]: Ifrit-x_x -> A PCB trace for a small RF based War board [INCOMPLETE]
-- [C,LDD]: WlStckD -> A Wlan Device Driver stack to implement naive firewalls and barriers at packet level with logging capbilities
+- [C,KDD]: WlStckD -> A Wlan Device Driver stack to implement naive firewalls and barriers at packet level with logging capbilities
 - [Python,Selenium]: SeleMate -> A personal selenium automation ran using cron jobs
 - [Rust,Ratatui]: FFsynTH -> A small program to parse raw audio signals from Pipewire/PulseAudio and synthesis a live configurable Spectrum Visualiser
 - [Rust,Ratatui,Asusd,DBus]: AtZuU -> A TUI app built upon asusd service communication via Sysytem DBus
@@ -99,11 +99,20 @@
 - [KiCAD]: KeyBoard -> A split keyboard PCB design that is modular and compatible with my custom macropad PCB
 - [KiCAD]: MacroPad -> A macropad PCB design built with compatibility with my split keyboard
 - [C]: Networks -> A small lib of Raw IP,ICMP,ping packet wrangling with a custom from scratch handling of raw ethernet dataframes
-- [Rust,Axum,MySQL/SQLlite/PostgresSql]: Quboid -> An ingenious storage abstraction project to store all sorts of data in appropriate containers/Data storage with batching, rules engine, preprocessing, layering, prioritisation and lazy dispatching with support for serving the APIs for using the lib at an endpoint,
-- 
-- 
-- 
-- [Java,Spring Boot,MySQL/MariaDB,Hibernate,Angular,ThymeLeaf,Azure]: 
+- [Rust,Axum,MySQL/SQLlite/PostgresSql]: Quboid -> An ingenious storage abstraction project to store all sorts of data in appropriate containers/Data storage with batching, rules engine, preprocessing, layering, prioritisation and lazy dispatching with support for serving the APIs for using the lib at an endpoint
+- [Bash]: BuildSystem -> A bash script to jumpstart any project with boilerplate template codes for coding languages and structuring used by me for my projects
+- [Rust,PipeWire/PulseWire]: TrEq -> An highly customisable EQ TUI app for V-sink implementation using pipewire/pulseaudio hot swappable nodes
+- [C]: Stdoslib -> A C library with many helper functional, added functional paradigm aligned methods, macros, metaprogramming supported code generation with code generative macros
+- [Rust,JS/TS,LLM]: LangCompose -> A auto-generative scriptable translation/locale generation engine for TS/JS strings
+- [C,Assm]: OS_from_scratch -> Collection of components/services for a extremely naive OS implementation, uses a 32kb disk emulator on a raw file ,to build a custom linear FS impl with superblocks,inode block,raw data blocks, a VGA BMP and Geometric Render for BIOS VGA supported Terminals,Error numbers with handling
+- [C,KDD]: Vlux-_KDD -> A KDD module for FS/Proc/namespace detailed querying char device interface implementation
+- [Python,LLM]: SwarmLLM -> A python swarm orchestrator to build Expert segreggated LLM responses and Combining based on similarity metrics to keep generating disimilar responses for building rich knowledge graphs
+- [Rust,SQLlite/Mysql/MariaDB/PostgresSQL]: DBit -> A VCS for Databases using config files for creating swappable containers for hosting DB with differnet level of scoping and members, having commands very similar to that of git with support for .DBignore files.
+- [Rust]: SpeRu -> A spelling autocorrection programing using BK trees with runtime learning of vocab based on autocorrections used
+- [Rust]: RZuite -> A rust utility suite containing methods for boosting crate development time
+- [Rust]: FineGIT -> A extention built on top of git to add conditional commands, slice commits of file blobs, auto remote config,etc many features to improve the granularity of git workflows
+- [Rust]: RaieLZ -> A Rust TUI email client
+- [Java,Spring Boot,MySQL/MariaDB,Hibernate,Angular,ThymeLeaf,Azure]: Fintech_Lab_Repo -> A repo containing my coursework for labs for building fullstack, MVC compliant fullstack application
 - 
 - TO BE UPDATED
 ---

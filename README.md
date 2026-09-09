@@ -67,7 +67,16 @@
 - [C]: Hot Code Reloading -> A runtime dynamic loading of .dll/.so for runtime behavioral changing
 - [C]: Http Server -> A small Http server similar to localhost without remote url resolution
 - [C]: Toraliser -> A SOCKS4 implementation for executing commands using tor proxy
-- [C]: Generics Data Structure -> A naive void ptr structure contstructor and helper for comman Data Structures
+- [C]: Generics Data Structure -> A naive void ptr structure contstructor and helper for common Data Structures
+- [C,C++,Python,ROS2,Gazebo,XML]: MRM Repo -> Collection of projects/tasks i have done at MRM AI TaskPhase
+- [C,Asm]: Embedder -> A small program to take input file/data and convert it to C byte array or Assembly byte blob
+- [KiCAD]: Ifrit-x_x -> A PCB trace for a small RF based War board [INCOMPLETE]
+- [C,LDD]: WlStckD -> A Wlan Device Driver stack to implement naive firewalls and barriers at packet level with logging capbilities
+- [Python,Selenium]: SeleMate -> A personal selenium automation ran using cron jobs
+- [Rust,Ratatui]: FFsynTH -> A small program to parse raw audio signals from Pipewire/PulseAudio and synthesis a live configurable Spectrum Visualiser
+- 
+- [Java,Spring Boot,MySQL/MariaDB,Hibernate,Angular,ThymeLeaf,Azure]: 
+- 
 - TO BE UPDATED
 ---
 ## 🌐 - How to reach me: 

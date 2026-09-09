@@ -125,7 +125,9 @@
 - [Rust]: ZecroVizR -> A Rust hypervisor implementation from scratch.
 - [Rust,C]: Preprocessor -> A preprocessor with many language features added to normal C by using the following preprocessor before actual preprocessing pipeline of compliling the C program
 - [Rust]: VNetRT -> A rust based scratch impl of Network routing gym environment for RL experiments
-- 
+- [Rust]: Ratatoskr -> A daily necessity TUI suite consisting of notes, todos, journals, pomodero, finance tracking, calender event tracking, customisable themes
+- [Rust,llvm]: Compiler -> A compiler for rust like language supporting control flow,conditionals,structs,enums and recursion in a loosely couple stack, consisting of tokenising,lexing,semantic analysis,Ir gen
+- [Rust]: Interpretor -> An interpretor for a rust like language supporting control flow,conditionals,structs,enums and recursion in a loosely couple stack, consisting of tokenising,lexing,semantic analysis,parsing and tree walking
 - TO BE UPDATED
 ---
 ## 🌐 - How to reach me: 

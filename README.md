@@ -93,6 +93,7 @@
 - [Rust,WebRTC,reqwest]: RVoic3 -> A Rust text,email,video calling,voice calling client and server using WebRTC
 - [Rust]: Options Pricing -> A small Black-Scholes greeks calculator in rust
 - [Go]: Godownloader -> A Go program to install all available media and files from urls
+- [Go]: Goscrapper -> A go programm to scrape all the available media from a provided dataset of urls with rate limiting,robots.txt aware traversal and realistic request headers
 - [Python]: PiAck -> The server side query and file broker for RasberryPi,to be used with PiRelay
 - [Rust]: FuZzle -> A small fuzzy nash equilibrium solver in Rust
 - [Rust]: RuTeWall -> An agent guardrail for allowing save execution of commands only
@@ -113,6 +114,17 @@
 - [Rust]: FineGIT -> A extention built on top of git to add conditional commands, slice commits of file blobs, auto remote config,etc many features to improve the granularity of git workflows
 - [Rust]: RaieLZ -> A Rust TUI email client
 - [Java,Spring Boot,MySQL/MariaDB,Hibernate,Angular,ThymeLeaf,Azure]: Fintech_Lab_Repo -> A repo containing my coursework for labs for building fullstack, MVC compliant fullstack application
+- [Rust,C]: CStaM -> A state machine creator for C working using special tokens like async and await to generate async stateful C files
+- [Python,RDB,GraphDB,VectorDB,LLM,KnowledgeGraphs]: RelNeCraph -> A knowledge graph builder and visualiser by using LLM generated responses queries to build growing knowledge graphs
+- [Rust,Reqwest,Agent]: ArguZ -> An AI agent built in rust to be used as an offline agentic coding assistant.
+- [Go]: Torquent -> A ,torrent file Ben parser, installer using retrival of seeded chunks and reassembly of the torrent file
+- [Rust,OpenCV]: Rustcii -> An ascii videocam/video/image converter with configurable transformations in the terminal
+- [Rust,LLM,Agent,RAG]: SystemX -> An Agentic RAG system with local native tooling
+- [Rust,Axum]: Rustis -> A prooduction ready implementation of a consistent hashing cache implementation with support for vnodes, redundancy backups, graceful degredation and retirement of cache and its vnodes, with support for serving the APIs for the lib via user specified route, consists of a master which is the actual node/system you shoould communicate with and requests are appropriately routed to the slaves based consistent hashing of data.
+- [C++]: BM_25-indexer -> A C++ implementation of a full pipeline of BM25 based search engine with scratch implementation of snowball and lanchaster stemmers,tokkeniser,TF-IDF
+- [Rust]: ZecroVizR -> A Rust hypervisor implementation from scratch.
+- [Rust,C]: Preprocessor -> A preprocessor with many language features added to normal C by using the following preprocessor before actual preprocessing pipeline of compliling the C program
+- [Rust]: VNetRT -> A rust based scratch impl of Network routing gym environment for RL experiments
 - 
 - TO BE UPDATED
 ---

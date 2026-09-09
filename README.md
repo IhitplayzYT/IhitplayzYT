@@ -74,6 +74,34 @@
 - [C,LDD]: WlStckD -> A Wlan Device Driver stack to implement naive firewalls and barriers at packet level with logging capbilities
 - [Python,Selenium]: SeleMate -> A personal selenium automation ran using cron jobs
 - [Rust,Ratatui]: FFsynTH -> A small program to parse raw audio signals from Pipewire/PulseAudio and synthesis a live configurable Spectrum Visualiser
+- [Rust,Ratatui,Asusd,DBus]: AtZuU -> A TUI app built upon asusd service communication via Sysytem DBus
+- [C,Assm]: Grub_Bootloader -> A small naive bootloader implementation to load partition table bootable entries
+- [C,Python,ESP32]: EzpeR -> The client side server request router for using remotely offloaded API for reading e-book storred remotely on RasberryPi Server, to be used with PieZo
+- [Go]: Goplet -> A autocompletion engine in go built using Tries
+- [C++,CUDA,NVCC]: PixCu-++ -> A CUDA build of Image Processing pipeline to prepare a pixelated image
+- [Rust,Reqwest]: PiRelay -> A client side project to communicate with a remote Brokerage RasberryPI storage server, to be used with PiAck
+- [Python,HuggingFace,Torch]: SynthRF -> A wave renderer from partial paramters of waves and interference patterns
+- [Python,HuggingFace,Torch,PEFT,MoE,RAG]: RuSFT -> A MoE RAG pipeline to provide fine tuned retrival based answers
+- [Rust,Knowledge Graphs]: Rectify -> A Rust project for LLM agents to asynchronously query and move a knowledge graph based on FIFOs.
+- [Python.Requirements]: python_AI_ML_DL_RL_LLM_Utils ->  A complete requiremnts.md to generate a super virtual env for AI/ML/DL/RL/GenAI projects
+- [Rust,Ratatui]: BeZieR -> A TUI app to draw using points,lines,quadratic and cubic beziers
+- [C,RFC]: DNS_Resolver -> A small C app to resolve hostnames by querying and parsing raw DNS response and request between your locally configured DNS conf
+- [C]: VigiFile -> A C project to have a folder watcher for logs of changes made to the file tree
+- [Python]: PieZo -> The server side handler for sending, storring and managing epub files between EzpeR client, to be used with EzpeR
+- [Rust]: ArgParse -> A rust lib similar to python's argparse impl to build an argument parsing engine
+- [Python,HuggingFace,Torch,GAT]: GaniPy -> A GAT(Generative Adversial Transformers) implementation to convert provided input text to AI-free text
+- [Rust,WebRTC,reqwest]: RVoic3 -> A Rust text,email,video calling,voice calling client and server using WebRTC
+- [Rust]: Options Pricing -> A small Black-Scholes greeks calculator in rust
+- [Go]: Godownloader -> A Go program to install all available media and files from urls
+- [Python]: PiAck -> The server side query and file broker for RasberryPi,to be used with PiRelay
+- [Rust]: FuZzle -> A small fuzzy nash equilibrium solver in Rust
+- [Rust]: RuTeWall -> An agent guardrail for allowing save execution of commands only
+- [KiCAD]: KeyBoard -> A split keyboard PCB design that is modular and compatible with my custom macropad PCB
+- [KiCAD]: MacroPad -> A macropad PCB design built with compatibility with my split keyboard
+- [C]: Networks -> A small lib of Raw IP,ICMP,ping packet wrangling with a custom from scratch handling of raw ethernet dataframes
+- [Rust,Axum,MySQL/SQLlite/PostgresSql]: Quboid -> An ingenious storage abstraction project to store all sorts of data in appropriate containers/Data storage with batching, rules engine, preprocessing, layering, prioritisation and lazy dispatching with support for serving the APIs for using the lib at an endpoint,
+- 
+- 
 - 
 - [Java,Spring Boot,MySQL/MariaDB,Hibernate,Angular,ThymeLeaf,Azure]: 
 - 

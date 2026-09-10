@@ -76,7 +76,7 @@
 - [Rust,Ratatui]: FFsynTH -> A small program to parse raw audio signals from Pipewire/PulseAudio and synthesis a live configurable Spectrum Visualiser
 - [Rust,Ratatui,Asusd,DBus]: AtZuU -> A TUI app built upon asusd service communication via Sysytem DBus
 - [C,Assm]: Grub_Bootloader -> A small naive bootloader implementation to load partition table bootable entries
-- [C,Python,ESP32]: EzpeR -> The client side server request router for using remotely offloaded API for reading e-book storred remotely on RasberryPi Server, to be used with PieZo
+- [C++,Python,ESP32]: EzpeR -> The client side server request router for using remotely offloaded API for reading e-book storred remotely on RasberryPi Server, to be used with PieZo
 - [Go]: Goplet -> A autocompletion engine in go built using Tries
 - [C++,CUDA,NVCC]: PixCu-++ -> A CUDA build of Image Processing pipeline to prepare a pixelated image
 - [Rust,Reqwest]: PiRelay -> A client side project to communicate with a remote Brokerage RasberryPI storage server, to be used with PiAck
@@ -100,7 +100,7 @@
 - [KiCAD]: KeyBoard -> A split keyboard PCB design that is modular and compatible with my custom macropad PCB
 - [KiCAD]: MacroPad -> A macropad PCB design built with compatibility with my split keyboard
 - [C]: Networks -> A small lib of Raw IP,ICMP,ping packet wrangling with a custom from scratch handling of raw ethernet dataframes
-- [Rust,Axum,MySQL/SQLlite/PostgresSql]: Quboid -> An ingenious storage abstraction project to store all sorts of data in appropriate containers/Data storage with batching, rules engine, preprocessing, layering, prioritisation and lazy dispatching with support for serving the APIs for using the lib at an endpoint
+- [Rust,Axum,MySQL]: Quboid -> An ingenious storage abstraction project to store all sorts of data in appropriate containers/Data storage with batching, rules engine, preprocessing, layering, prioritisation and lazy dispatching with support for serving the APIs for using the lib at an endpoint
 - [Bash]: BuildSystem -> A bash script to jumpstart any project with boilerplate template codes for coding languages and structuring used by me for my projects
 - [Rust,PipeWire/PulseWire]: TrEq -> An highly customisable EQ TUI app for V-sink implementation using pipewire/pulseaudio hot swappable nodes
 - [C]: Stdoslib -> A C library with many helper functional, added functional paradigm aligned methods, macros, metaprogramming supported code generation with code generative macros

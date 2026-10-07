@@ -58,6 +58,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ROS 2 Humble](https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Prost & Tonic Rust gRPC](https://img.shields.io/badge/Prost%20%26%20Tonic-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Golang gRPC](https://img.shields.io/badge/Golang%20gRPC-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![ProtoBuf](https://img.shields.io/badge/ProtoBuf-2C3E50?style=for-the-badge&logo=protobuf&logoColor=white)

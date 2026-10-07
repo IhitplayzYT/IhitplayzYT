@@ -62,6 +62,7 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![ProtoBuf](https://img.shields.io/badge/ProtoBuf-2C3E50?style=for-the-badge&logo=protobuf&logoColor=white)
 ![Proc Macros in Rust](https://img.shields.io/badge/Proc%20Macros%20in%20Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ---
 
 <img src="https://streak-stats.demolab.com?user=IhitplayzYT&theme=dark" />
